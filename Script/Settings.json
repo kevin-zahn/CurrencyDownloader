@@ -1,0 +1,8 @@
+{
+  "server": "172.16.29.4",
+ "instance": "AGC", 
+  "user": "orpheus_spendcontrol",
+  "password": "#cub3bu1ld3r$",
+  "system_name": "AGC",
+  "Token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJtY2tpbnNleS11c2VyLWNsaWVudDprZXZpbi16YWhuIiwiaXNzIjoiYWdlbnQ6a2V2aW4temFobjo6OTE5ODE2MDMtYzg3My00MjVmLTkwM2UtZTg1N2Y2NWI0MDhhIiwiaWF0IjoxNjAxOTcxNTAzLCJyb2xlIjpbInVzZXJfYXBpX3JlYWQiLCJ1c2VyX2FwaV93cml0ZSJdLCJnZW5lcmFsLXB1cnBvc2UiOnRydWUsInNhbWwiOnsibWNraW5zZXkiOi0xfX0.GwbqjAhbdqAkMYIn-vjVuEJy2r9Sg1sY-OcXj1JXOQngouL9cVfFQ-6oXViB8hmgqDRr4x4Prz360dy3JwT7xQ"
+ }
